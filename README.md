@@ -1,16 +1,10 @@
 ```typescript
-proxy = {
-"http": '46.53.191.60:3128',
-"https": '46.53.191.60:3128'
-}
-best = eazyy.cf
-url = requests.get(best, proxies=proxy)
-
 export info {
     name: 'E0n3x',
     aliases: [
       'kasule',
       'gasuyd',
+      '0nzl',
       'enx'
     ],
     os: [ 
@@ -19,15 +13,13 @@ export info {
     ],
     skills: [
       'PyThon',
-      'JavaScript'
+      'JavaScript',
+      'PHP',
+      'C++'
     ],
     contact: {
-      discord: 'E0n3x#6750',
-      youtube: 'E0n3x',
-      twitter: 'e0n3x_',
+      discord: 'e0n3x',
       tiktok: 'E0n3x',
-      instagram: 'E0n3x',
-      epicgames: 'E0n3x_'
     }
 }
 ```
